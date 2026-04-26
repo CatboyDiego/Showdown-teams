@@ -1,6 +1,4 @@
-=== [gen9monotype] Honse ===
-
-Has no twin (Archaludon) @ Expert Belt  
+Tank (Archaludon) @ Expert Belt  
 Ability: Stamina  
 Tera Type: Steel  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -11,7 +9,7 @@ IVs: 0 Atk
 - Dark Pulse  
 - Aura Sphere  
 
-Barney (Dragonite) @ Choice Band  
+Barney (Dragonite) @ Expert Belt  
 Ability: Inner Focus  
 Shiny: Yes  
 Tera Type: Normal  
@@ -19,7 +17,7 @@ EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature  
 - Extreme Speed  
 - Dragon Dance  
-- Focus Punch  
+- Fire Punch  
 - Ice Spinner  
 
 Suicune wth (Walking Wake) @ Expert Belt  
@@ -59,7 +57,7 @@ Tera Type: Grass
 EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
-- Energy Ball  
+- Giga Drain  
 - Nasty Plot  
-- Leaf Storm  
-- Draco Meteor  
+- Hydro Pump  
+- Dragon Pulse  
